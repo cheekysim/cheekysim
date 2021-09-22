@@ -1,0 +1,3 @@
+I’m @cheekysim
+
+I use python and html, tis pretty cool, and I occasionally make discord bots...
