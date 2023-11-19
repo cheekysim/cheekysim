@@ -9,4 +9,5 @@ I have just finished a Cyber Secruity college course, I am very interested in pr
 - JavaScript | 2 Years
   
 # Frameworks
-- React | > 1 Year
+- React | < 1 Year
+- Sveltekit | < 1 Year
